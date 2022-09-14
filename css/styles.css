@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+
+/* header */
+.top {
+  background-color: #EEEFF1;
+}
+
+.menu {
+  width: 1110px;
+  /* background-color: aqua;    */
+  margin: 0 auto;
+  padding: 20px;
+  padding-left: 0;
+}
+
+.list_top {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav_top { /* li */
+   display: inline-block; 
+   margin-right: 42px ;
+   /* background-color: blue; */
+}
+
+.nav_top .active {
+font-weight: 500;
+}
+
+.nav_top a { /* a в навигации */
+  text-decoration: none;
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: black;
+  line-height: 26px;
+  letter-spacing: 0.1em;
+}
+
+
+
+/* main */
+.main1 {
+  background-color: #EEEFF1;
+  height: 633px;
+}
+
+.main2 {
+  background-color: #FFFFFF;
+  height: 359px;
+}
+.main3 {
+  background-color: #34547A;
+  height: 250px;
+}
+
+.main4 {
+  background-color: #EEEFF1;
+  height: 1004px;
+}
+
+
+/* footer */
+footer {
+
+}
